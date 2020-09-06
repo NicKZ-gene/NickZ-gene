@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 🏀 Once Lakers, Always Lakers
 
 ![NickZ-gene's github stats](https://github-readme-stats.vercel.app/api?username=NicKZ-gene)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>)
