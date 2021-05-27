@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Unity, Python and Java
+- 🔭 I’m currently working on Unity, Python, Java and JavaScript
 - 🌱 I’m currently learning Unity
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything
